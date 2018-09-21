@@ -1,8 +1,8 @@
 {
-  "name": "swagger-ui",
-  "version": "3.18.3",
+  "name": "@bureaublauwgeel/swagger-ui",
+  "version": "3.18.3-react16",
   "main": "dist/swagger-ui.js",
-  "repository": "git@github.com:swagger-api/swagger-ui.git",
+  "repository": "git@github.com:bureaublauwgeel/swagger-ui.git",
   "contributors": [
     "(in alphabetical order)",
     "Anna Bodnia <anna.bodnia@gmail.com>",
